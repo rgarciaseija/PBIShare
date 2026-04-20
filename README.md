@@ -27,6 +27,7 @@
 | [Revenue Widget](PowerBI_Files/Revenue%20Widget) | A standalone, reusable UI component built using a widget-based Power BI design approach. Combines revenue KPIs, device trends, and micro-interactions into a clean, modular layout. Uses only native visuals and includes reusable icons and a sample dataset. |
 | [Styled Gauge](PowerBI_Files/Styled%20Gauge) | A semi-circular, segment-based gauge built entirely with native Power BI visuals. Shows progress toward a target with dynamic fill, clean hierarchy, and a central KPI value. Uses no custom visuals and fits naturally into widget-driven design systems. |
 | [Starter Report – Modern App Layout](PowerBI_Files/Starter%20Report) | A single-page Power BI starter report with an app-style layout. Includes sidebar navigation, a slicer panel pattern, dynamic KPI selection using field parameters, and a complete semantic model with CSV data and local icons. Designed as a reusable foundation for modern Power BI reports. |
+| [18 Bar Charts](PowerBI_Files/18%20Bar%20Charts) | A comprehensive collection demonstrating 18 different ways to visualize bar charts natively in Power BI. Serves as a visual dictionary and technical template showcasing incredible flexibility with standard visuals. |
 
 > More reports and layouts will be added over time. Each includes a local `README.md` with setup instructions and version details.
 
